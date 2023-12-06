@@ -1,1 +1,30 @@
+body{
+    padding: 0;
+    margin: 0;
+   font-family: sans-serif;
+   background: url(pie.jpg); 
+}
+form{
+    position: absolute;
+    top: 60%;
+    left: 54%;
+    transform: translate(-50%, -50%);
+    width:300px;
+    height: 420px;
+    background: rgba(0,0,0,-5);
+    border-radius: 30px;
+    box-sizing: border-box
+}
+[alt="user"],{
+    position: absolute;
+    top: -50px;
+    left: 118px;
 
+
+}
+h2{
+    color: #e1d8d8;
+    text-align: center;
+    margin-top: 90px;
+    font-size: 20px;
+        font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
