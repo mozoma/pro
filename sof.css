@@ -28,3 +28,72 @@ h2{
     margin-top: 90px;
     font-size: 20px;
         font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    input[type="text"]{
+    position: absolute;
+    outline: none;
+    border: none;
+    width:250px;
+    height: 35px;
+    border-bottom: 2px solid #0094ff;
+    background: none;
+    padding: 1px;
+    color: #fff
+}
+input[type="password"]{
+    position: absolute;
+    outline: none;
+    border: none;
+    width:250px;
+    height: 35px;
+    border-bottom: 2px solid #0094ff;
+    background: none;
+    padding: 1px;
+    color: #fff
+}
+input[type="text"]{
+    top: 220px;
+    left: -20px;
+}
+input[type="password"]{
+    top: 250px;
+    left: -20px;
+}
+input[value="login"]{
+    position: absolute;
+    top: 370px;
+    left: 30px;
+    width: 130px;
+    height: 35px;
+    background: #0077ff;
+    border: none;
+    outline: none;
+    color: #fff;
+    border-radius: 25px;
+    font-size: 20px;
+
+
+}
+input[value="login"]:hover{
+background: #fff;
+color:#0077ff
+}
+
+h2{
+    position: absolute;
+    top: 110px;
+    left: 60px
+    
+    
+}
+
+p{
+    position: absolute;
+    top: 300px;
+    left: -15px
+}
+.n{
+height: 40px;
+width: 1510px;;
+background: rgb(90, 35, 125);
+border: 4px black solid;
+}
